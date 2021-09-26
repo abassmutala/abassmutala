@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abassmutala
-- 👀 I’m interested in mobile app, AI & IOT
+- 👀 I’m interested in mobile apps, AI & IOT
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any cool project
 - 📫 You can reach me on Twitter & LinkedIn
