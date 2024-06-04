@@ -24,7 +24,6 @@
 - MySQL
 - Firebase
 - Figma
-- Laravel
 - Vercel
 
 
