@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on any cool project
 - 📫 You can reach me on [X](https://x.com/abass_mutala) & [LinkedIn](https://www.linkedin.com/in/abassmutala/)
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abassmutala&theme=transparent&layout=compact)
 
 # Socials:
